@@ -1,4 +1,3 @@
-Here’s a clearer, well-structured rephrase of your points:
 
 User Registration – Response time: 1.40 s
 
